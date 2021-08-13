@@ -9,7 +9,7 @@
 ---
 ### <strong>Proposta</strong>: Criar e utilizar mais estruturas de dados em Python.
 
-### Exemplo: Criação de uma estrutura de file (queue)
+### Exemplo: Criação de uma estrutura de fila (queue)
 
 ```Python
 class Queue:
