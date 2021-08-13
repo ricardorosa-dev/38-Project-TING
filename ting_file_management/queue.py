@@ -3,7 +3,6 @@ from collections import deque
 
 class Queue:
     def __init__(self):
-        """Inicialize sua estrutura aqui"""
         self.data = deque([])
         self.length = 0
 
